@@ -1,0 +1,28 @@
+.container{ 
+           background-color: floralwhite;
+
+         width: 400px;
+         justify-items: center;
+               padding :30px;
+               box-shadow:  5px 5px 15px gray;
+               line-height:1.5;}
+Body{   background:linear-gradient( skyblue, slateblue ) no-repeat;
+   background-attachment:fixed;
+Justify-items:center;
+margin-top:200px;}
+h1{color:darkblue;
+}
+button { width:250px;
+  background-color:slateblue;
+  color: white;
+border-radius:5px;
+padding:10px;
+border:none;   }
+.Input-box {
+  width: 230px;
+  padding: 10px;
+Border:none;
+}
+
+.
+
